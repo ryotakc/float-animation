@@ -14,7 +14,7 @@ export default function Home() {
         </div>
         <div className="flex-1">
           <h2 className="font-bold text-xl mb-1">leo</h2>
-          <p className="text-muted-foreground">Hello! I'm leo.</p>          
+          <p className="text-muted-foreground">Hello! I&apos;m leo.</p>          
         </div>
 
       </div>
